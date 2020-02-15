@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj",
+        "projectName": "DBC.Training.EF.Core.Linq",
+        "projectPath": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj",
+        "packagesPath": "C:\\Users\\ChrisCabezudo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ChrisCabezudo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://conexlink.pkgs.visualstudio.com/_packaging/MCIT-V3/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/devblockcloud/DBC-VALHALLA/_packaging/DBC-Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
