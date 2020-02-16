@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj": {}
+    "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linqd\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj": {
+    "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linqd\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj",
+        "projectUniqueName": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linqd\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj",
         "projectName": "DBC.Training.EF.Core.Linq",
-        "projectPath": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj",
+        "projectPath": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linqd\\DBC.Training.EF.Core.Linq\\DBC.Training.EF.Core.Linq.csproj",
         "packagesPath": "C:\\Users\\ChrisCabezudo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linq\\DBC.Training.EF.Core.Linq\\obj\\",
+        "outputPath": "C:\\Users\\ChrisCabezudo\\source\\repos\\dbc-tutorial-ef-core-linqd\\DBC.Training.EF.Core.Linq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

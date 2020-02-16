@@ -6,3 +6,11 @@ C:\Users\ChrisCabezudo\source\repos\DBC-Training-EF-Core-Linq\DBC.Training.EF.Co
 C:\Users\ChrisCabezudo\source\repos\DBC-Training-EF-Core-Linq\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.AssemblyInfo.cs
 C:\Users\ChrisCabezudo\source\repos\DBC-Training-EF-Core-Linq\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.dll
 C:\Users\ChrisCabezudo\source\repos\DBC-Training-EF-Core-Linq\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.pdb
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\bin\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.deps.json
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\bin\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.dll
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\bin\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.pdb
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.csprojAssemblyReference.cache
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.AssemblyInfoInputs.cache
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.AssemblyInfo.cs
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.dll
+C:\Users\ChrisCabezudo\source\repos\dbc-tutorial-ef-core-linqd\DBC.Training.EF.Core.Linq\obj\Debug\netcoreapp3.1\DBC.Training.EF.Core.Linq.pdb
